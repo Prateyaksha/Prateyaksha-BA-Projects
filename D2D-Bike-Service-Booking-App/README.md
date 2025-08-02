@@ -1,6 +1,6 @@
 ## Overview
 
-The D2D Bike Service Booking App is an on-demand, doorstep 2-wheeler servicing platform for Ayodhya. It allows customers to...
+The D2D Bike Service Booking App is an on-demand, doorstep 2-wheeler servicing platform for Ayodhya. It allows customers to schedule bike servicing at their preferred location, where a mechanic visits and performs the service on-site.
 
 ## Deliverables
 
